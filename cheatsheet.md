@@ -46,6 +46,496 @@ gU          Make the range uppercase ("go upper").\n
 gu          Make the range lowercase ("go lower").\n
 !           Send the range through the external program\n
 
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
+### current line operators
+
+Operator    Usage
+cc          Change current line-that is, delete the line and move into insert mode at the beginning of the line.\n
+dd          Delete the current line.\n
+yy          Yank the current line.\n
+g~~         Change the case for the current line.\n
+gUU         Make the current line uppercase.\n
+guu         Make the current line lowercase.\n
+
 ### examples
 c2w     remove the next two words.\n
 
