@@ -1,47 +1,51 @@
 # Vim cheatsheet
 
-# modes
+## modes
 
 keybind     mode                    function
-ctrl + c    go to command mode      command mode is where you move around and decide where to edit
+ctrl + c    go to command mode      command mode is where you move around and decide where to edit.\n
 
 ## Vim motions
-keys used in command mode to move the cursor.
+keys used in command mode to move the cursor.\n
 
-Motion  Usage
-gg      Go to the beginning of the buffer.
-G       Go to the end of the buffer.
-0       Go to the beginning of the line (it is a zero).
-$       Go to the end of the line.
-w       Go forward one word.
-b       Go backward one word.
-h       Go left.    h, j, k, l = right, down, up, left
-j       Go down.
-k       Go up
-l       Go right
-)       Go forward one sentence
-(       Go backward one sentence.
+Motion  Usage\n
+gg      Go to the beginning of the buffer.\n
+G       Go to the end of the buffer.\n
+0       Go to the beginning of the line (it is a zero).\n
+$       Go to the end of the line.\n
+w       Go forward one word.\n
+b       Go backward one word.\n
+h       Go left.    h, j, k, l = right, down, up, left\n
+j       Go down.\n
+k       Go up.\n
+l       Go right.\n
+)       Go forward one sentence.\n
+(       Go backward one sentence.\n
 
-you can use a number infront of motion to perform that motion several times at once
-5j = jjjjj = go down five time
+you can use a number infront of motion to perform that motion several times at once.\n
+5j = jjjjj = go down five time.\n
 
 ## Insertion starters
 
-Motion  Usage
-i       Insert at cursor.
-I       Insert before the first non-whitespace character in the current line.
-a       Append text after the cursor.
-A       Append text at the end of the current line.
-o       Open a new line below the position
-O       Open a new line above the current line.
+Motion  Usage\n
+i       Insert at cursor.\n
+I       Insert before the first non-whitespace character in the current line.\n
+a       Append text after the cursor.\n
+A       Append text at the end of the current line.\n
+o       Open a new line below the position\n
+O       Open a new line above the current line.\n
 
 ## Range opertaion
 
-Operator    Usage
-c           Change the range-that is, delete the characters and move into insert mode at the beginning of the range
-d           Delete the range.
-y           Yank the range-that is, copy it to a register (Vim's version of a clipboard) ready to paste later.
-g~          Invert the range case (change uppercase characters to lowercase characters and vice versa).
-gU          Make the range uppercase ("go upper").
-gu          Make the range lowercase ("go lower").
-!           Send the range through the external program
+Operator    Usage\n
+c           Change the range-that is, delete the characters and move into insert mode at the beginning of the range.\n
+d           Delete the range.\n
+y           Yank the range-that is, copy it to a register (Vim's version of a clipboard) ready to paste later.\n
+g~          Invert the range case (change uppercase characters to lowercase characters and vice versa).\n
+gU          Make the range uppercase ("go upper").\n
+gu          Make the range lowercase ("go lower").\n
+!           Send the range through the external program\n
+
+### examples
+c2w     remove the next two words.\n
+
