@@ -30,3 +30,25 @@ alt + t     transpose the last two words before the cursor, switching their plac
 ctrl + t    transpose the two letters before the cursor.\n
 history     opens your history numbering the entries. by typing !# you can rerun command #.\n
 bindkey     show a list of the current keybinds.\n
+
+### pipeline commands
+
+command     function\n
+sort        sort the input.\n
+xclip       copy to clipboard. use -o flag to fetch from clipboard.\n
+uniq        keep only unique lines.\n
+sed         's/Hello/Goodbye/' Substitute Hello for Goodbye.\n
+wc          word count, returns lines, words, characters.\n
+rev         reverse the input.\n
+less        get a good overview.\n
+>           add to a place, usually a file. will remove what is in the file.\n
+>>          append to a place.\n
+2>&1        take the standard error (2) and pipe it to standard output (1).\n
+
+## Chapter 3 - Finding Files and Folders
+
+### Commands
+find    *options    starting-point  expression*\n
+    options - change how find works.\n
+    starting-point - set find perimeter. the only required argument. \n
+    expression - more complex patters. \n
