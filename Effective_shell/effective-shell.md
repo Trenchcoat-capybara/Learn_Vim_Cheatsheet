@@ -52,3 +52,10 @@ find    *options    starting-point  expression*\n
     options - change how find works.\n
     starting-point - set find perimeter. the only required argument. \n
     expression - more complex patters. \n
+        -type   -   d for directort, f for files, see man pages for more.\n
+        -name   -   insert name that is being searched for, use of wildcards possible.\n
+        -iname  -   case insensitive name flag.\n
+        -or     -   used to bind two expressions, if either fits show result. "And" is the standard if you use two expressions.\n
+        -not    -   use to exclude the following expression.\n
+        -delete -   delete the returned files, don't use it.\n
+
