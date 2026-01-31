@@ -2,7 +2,7 @@
 
 ## Chapter 1 - Flying the Command Line
 
-Shortcut    Effect\n
+Shortcut    Effect  
 ctrl + a    go to the beginning of the line.\n
 ctrl + e    go to the end of the line\n
 alt + b     move back one word.\n
