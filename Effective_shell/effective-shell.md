@@ -3,16 +3,16 @@
 ## Chapter 1 - Flying the Command Line
 
 Shortcut    Effect  
-ctrl + a    go to the beginning of the line.\n
-ctrl + e    go to the end of the line\n
-alt + b     move back one word.\n
-alt + f     move forward one word.\n
-ctrl + w    delete from beginning of word to cursor.\n
-alt + d     delete the next word to the right.\n
-    there are different delete functions, the two use different ones.\n
-ctrl + u    delete everything from the beginning of the line to the cursor.\n
-ctrl + k    delete from cursor to end of line.\n
-ctrl + _    undo most recent change.\n
+ctrl + a    go to the beginning of the line.  
+ctrl + e    go to the end of the line  
+alt + b     move back one word.  
+alt + f     move forward one word.  
+ctrl + w    delete from beginning of word to cursor.  
+alt + d     delete the next word to the right.  
+    there are different delete functions, the two use different ones.  
+ctrl + u    delete everything from the beginning of the line to the cursor.  
+ctrl + k    delete from cursor to end of line.  
+ctrl + _    undo most recent change.  
 
 ### search commands
 
